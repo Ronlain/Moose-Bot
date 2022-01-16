@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MooseBot", "MooseBot\MooseBot.csproj", "{A68868CF-67D1-4DA8-86CA-88F53ECD1ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A68868CF-67D1-4DA8-86CA-88F53ECD1ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A68868CF-67D1-4DA8-86CA-88F53ECD1ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A68868CF-67D1-4DA8-86CA-88F53ECD1ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A68868CF-67D1-4DA8-86CA-88F53ECD1ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9228AE35-FB8E-42BC-9C7B-C2B28F01BB38}
+	EndGlobalSection
+EndGlobal
